@@ -60,12 +60,7 @@
     margin-top: 10px;
     font-weight: normal;
   }
-  h2 {
-    font-family: "Courier New", Courier, monospace;
-  }
-  button {
-    /* width: 10%; */
-  }
+
   .page {
     height: 100vh;
   }
