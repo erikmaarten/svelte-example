@@ -31,11 +31,11 @@
     margin: 10px 20px;
   }
   .page {
-    background-color: pink;
+    background-color: #fabba7;
   }
   .underscore {
     width: 40%;
-    border-bottom: 2px solid pink;
+    border-bottom: 2px solid #fabba7;
   }
   .page {
     display: flex;
@@ -49,7 +49,7 @@
   .card {
     max-width: 400px;
     display: flex;
-    background-color: rgb(82, 78, 104);
+    background-color: #504e54;
     border-radius: 4px;
   }
   p {
