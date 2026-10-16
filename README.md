@@ -1,6 +1,6 @@
-Example portfolio project.
+# Example portfolio project.
 
-How to run:
+## How to run:
 in your terminal (in VS code or the terminal app), run:
 ```
 npm run dev
