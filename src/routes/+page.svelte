@@ -44,11 +44,13 @@
   }
   img {
     max-width: 200px;
+    border-radius: 0 4px 4px 0;
   }
   .card {
     max-width: 400px;
     display: flex;
     background-color: rgb(82, 78, 104);
+    border-radius: 4px;
   }
   p {
     font-size: 12px;
