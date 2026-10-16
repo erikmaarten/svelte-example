@@ -9,13 +9,21 @@
       <p class="professional-title">Photographer</p>
       <h1>Olivia Dunham</h1>
       <div class="underscore"></div>
-      <p>Here is a bunch of sample text about Olivia Dunham</p>
+      <p>
+        Eleifend felis pharetra mi montes sit vulputate. Integer semper
+        facilisis mi ipsum condimentum. Sociis eu est sed, sociis dis nunc.
+      </p>
     </div>
     <img alt="profile" src={profileImage} />
   </div>
 </div>
 
 <style>
+  h1,
+  h2,
+  p {
+    font-family: Inter, Arial;
+  }
   :global(body) {
     margin: 0;
   }
@@ -43,12 +51,14 @@
     background-color: rgb(82, 78, 104);
   }
   p {
+    font-size: 12px;
     color: rgb(198, 203, 230);
   }
   h1 {
     color: rgb(249, 249, 249);
     font-size: 20px;
     margin-top: 10px;
+    font-weight: normal;
   }
   h2 {
     font-family: "Courier New", Courier, monospace;
