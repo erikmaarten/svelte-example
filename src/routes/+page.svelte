@@ -6,6 +6,7 @@
 <div class="page">
   <div class="card">
     <div>
+      <p class="professional-title">Photographer</p>
       <h1>Olivia Dunham</h1>
       <div class="underscore"></div>
       <p>Here is a bunch of sample text about Olivia Dunham</p>
