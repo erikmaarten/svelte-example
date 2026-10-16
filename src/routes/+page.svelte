@@ -5,7 +5,7 @@
 
 <div class="page">
   <div class="card">
-    <div>
+    <div class="profile-text">
       <p class="professional-title">Photographer</p>
       <h1>Olivia Dunham</h1>
       <div class="underscore"></div>
@@ -18,6 +18,9 @@
 <style>
   :global(body) {
     margin: 0;
+  }
+  .profile-text {
+    margin: 10px 20px;
   }
   .page {
     background-color: pink;
@@ -45,7 +48,7 @@
   h1 {
     color: rgb(249, 249, 249);
     font-size: 20px;
-    padding-bottom: 10px;
+    margin-top: 10px;
   }
   h2 {
     font-family: "Courier New", Courier, monospace;
